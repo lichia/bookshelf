@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>https://lichia.github.io/bookshelf/</loc>
     <lastmod>2016-03-14T16:31:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/post/good-to-great/</loc>
+    <loc>https://lichia.github.io/bookshelf/post/good-to-great/</loc>
     <lastmod>2016-03-14T16:31:20-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/post/confessions-of-a-public-speaker/</loc>
+    <loc>https://lichia.github.io/bookshelf/post/confessions-of-a-public-speaker/</loc>
     <lastmod>2016-03-14T16:31:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/post/The-Art-of-Thinking-Clearly/</loc>
+    <loc>https://lichia.github.io/bookshelf/post/The-Art-of-Thinking-Clearly/</loc>
     <lastmod>2016-03-14T16:30:21-04:00</lastmod>
   </url>
   
